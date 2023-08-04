@@ -24,3 +24,4 @@ guessButton.addEventListener('click', () => {
         }
     }
 });
+
